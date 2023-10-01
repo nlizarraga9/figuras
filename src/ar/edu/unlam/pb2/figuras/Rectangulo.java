@@ -9,4 +9,7 @@ public class Rectangulo {
 	this.base = base;
 	this.altura = altura;
 	}
+
+	public String toString(){
+		return "Rectangulo [base=" + base + ", altura=" + altura + "]";
 }
